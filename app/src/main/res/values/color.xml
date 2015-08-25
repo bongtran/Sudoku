@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange">#f46264</color>
+    <color name="violet">#94a0cc</color>
+    <color name="R1">#f39c12</color>
+    <color name="R2">#f3ce12</color>
+    <color name="R3">#def31a</color>
+    <color name="R4">#6af31d</color>
+    <color name="R5">#17f322</color>
+    <color name="R6">#1df37c</color>
+    <color name="R7">#12f3a8</color>
+    <color name="R8">#0bf3de</color>
+    <color name="R9">#14cbf3</color>
+    <color name="green">#18f34d</color>
+    <color name="white">#ffffff</color>
+</resources>
